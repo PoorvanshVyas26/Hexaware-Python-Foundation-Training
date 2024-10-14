@@ -17,6 +17,6 @@ python Main.py
 Special Thanks to Mr.Sanjit Jha for his valuable guidance and constant support.
 
 Team:
-Poorvansh Vyas
-Akansha Singh
+Poorvansh Vyas,
+Akansha Singh,
 Harshini V
